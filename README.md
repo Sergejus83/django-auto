@@ -1,0 +1,2 @@
+# django-auto
+Užduotis: Autoservisas
